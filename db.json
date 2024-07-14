@@ -1,0 +1,22 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "name": "complete express assignments",
+        "status": false,
+        "assignee": "Dhanush"
+      },
+      {
+        "id": 2,
+        "name": "complete the fello assignment",
+        "status": false,
+        "assignee": "Dhanush"
+      },
+      {
+        "id": 3,
+        "name": "complete the redux assignment",
+        "status": false,
+        "assignee": "Dinesh"
+      }
+    ]
+  }
